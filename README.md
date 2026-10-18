@@ -39,17 +39,3 @@ This project explores feature extraction, data preprocessing, and ensemble tree-
    - 5-Fold Cross-Validation to guarantee model generalizability and prevent data leakage.
    - Comprehensive performance evaluation focusing on weighted **F1-Score**.
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-Ensure you have Python 3.9+ installed along with `pip`.
-
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)<SEU-USERNAME-DO-GITHUB>/<NOME-DO-REPOSITORIO>.git
-   cd <NOME-DO-REPOSITORIO>
